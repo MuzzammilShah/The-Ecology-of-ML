@@ -1,2 +1,3 @@
-> [!The Ecology of ML]
+> **The Ecology of ML**
+>
 > Playground environment to experiment and explore the different ecologies of ML.
